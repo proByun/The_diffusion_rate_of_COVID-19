@@ -8,3 +8,4 @@ https://www.kaggle.com/kimjihoo/coronavirusdataset
 코로나의 확산속도는 위도, 경도에 유클리디안 거리를 이용해서 clustering 후 cluster 별 weight를 줘서 formulation 했고, 
 
 ARIMA알고리즘을 이용해서 확산속도를 예측했습니다. 
+
